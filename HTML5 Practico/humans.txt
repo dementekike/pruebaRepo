@@ -1,0 +1,17 @@
+/* Titulo de la pagina - Dominio de la pagina*/
+
+/* TEAM */
+	Creator: Javier Mendez
+	Contact: demente [at] home.com
+	Twitter: @demente
+	From: Mexico city, Mexico
+
+/* THANKS */
+	Agradecimientos a xxx
+
+/* SITE */
+	Last update: 2013/02/1
+	Language: Espanol
+	Standards:
+	Components:
+	Software:
